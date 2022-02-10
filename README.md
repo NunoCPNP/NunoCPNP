@@ -14,6 +14,7 @@ Currently working at [Farfetch](https://github.com/Farfetch)
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> ![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3&logoColor=white)</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?&logo=javascript&logoColor=white)</a>
 <a href="https://reactjs.org" target="_blank"> ![React Badge](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=white)</a>
+![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 
 ### Currently learning
 
