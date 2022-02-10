@@ -1,6 +1,6 @@
-Hi there 👋
+## Hi there 👋
 
-#### I'm a JavaScript Developer from Porto, Portugal
+### I'm a JavaScript Developer from Porto, Portugal
 
 Currently working at [Farfetch](https://github.com/Farfetch)
 
