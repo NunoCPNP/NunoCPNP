@@ -15,6 +15,10 @@ Currently working at [Farfetch](https://github.com/Farfetch)
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?&logo=javascript&logoColor=white)</a>
 <a href="https://reactjs.org" target="_blank"> ![React Badge](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=white)</a>
 
+### Currently learning
+
+<a href="https://svelte.dev/" target="_blank"> ![SVELTE Badge](https://img.shields.io/badge/-SVELTE-E34F26?&logo=svelte&logoColor=white)
+
 <!--
 **NunoCPNP/NunoCPNP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
