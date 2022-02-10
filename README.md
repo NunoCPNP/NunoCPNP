@@ -10,11 +10,10 @@ Currently working at [Farfetch](https://github.com/Farfetch)
 
 ### Most used technologies
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank"> ![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white)</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> ![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3&logoColor=white)</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?&logo=javascript&logoColor=white)</a>
-<a href="https://reactjs.org" target="_blank"> ![React Badge](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=white)</a>
-<br />
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
