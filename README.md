@@ -6,7 +6,7 @@ Currently working at [Farfetch](https://github.com/Farfetch)
 
 <a href="https://github.com/NunoCPNP" target="_blank"> ![Github Badge](http://img.shields.io/badge/-NunoCPNP-000?&logo=Github&logoColor=white&link=https://github.com/NunoCPNP)</a>
 <a href="https://www.linkedin.com/in/nunocpnp/" target="_blank"> ![Linkedin Badge](https://img.shields.io/badge/-Nuno%20Pereira-blue?&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9-gouveia-marques-675ab3127/)</a>
-<a href="mailto:nunocpereira@outlook.com" target="_blank"> ![Gmail Badge](https://img.shields.io/badge/-nunocpereira@outlook.com-c14438?&logo=Gmail&logoColor=white&link=mailto:nunocpereira@outlook.com)</a>
+<a href="mailto:iamnunopereira@gmail.com" target="_blank"> ![Gmail Badge](https://img.shields.io/badge/-iamnunopereira@gmail.com-c14438?&logo=Gmail&logoColor=white&link=mailto:nunocpereira@outlook.com)</a>
 
 ### 🔭 Most used technologies
 
