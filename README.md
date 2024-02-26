@@ -2,13 +2,11 @@
 
 ### I'm a JavaScript Developer from Porto, Portugal
 
-Currently working at [Farfetch](https://github.com/Farfetch)
+#### 🔭 I’m currently working as
 
-<a href="https://github.com/NunoCPNP" target="_blank"> ![Github Badge](http://img.shields.io/badge/-NunoCPNP-000?&logo=Github&logoColor=white&link=https://github.com/NunoCPNP)</a>
-<a href="https://www.linkedin.com/in/nunocpnp/" target="_blank"> ![Linkedin Badge](https://img.shields.io/badge/-Nuno%20Pereira-blue?&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9-gouveia-marques-675ab3127/)</a>
-<a href="mailto:iamnunopereira@gmail.com" target="_blank"> ![Gmail Badge](https://img.shields.io/badge/-iamnunopereira@gmail.com-c14438?&logo=Gmail&logoColor=white&link=mailto:nunocpereira@outlook.com)</a>
+Front End Software Engineer @ [Farfetch](https://github.com/Farfetch)
 
-### 🔭 Most used technologies
+#### 🌱 Most used technologies
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -18,22 +16,21 @@ Currently working at [Farfetch](https://github.com/Farfetch)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### 🌱 Currently learning
-
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 
-<!--
-**NunoCPNP/NunoCPNP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### ✨ I'm Currently building
 
-Here are some ideas to get you started:
+Merging my passion for music and technology, as a personal project, I'm building an online record store with all the features I would like to find during the countless hours I spend searching for records in various online record stores.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The two main objectives are:
+
+Creating a fast application with all the necessary features for buyers to have a unique experience.
+Ensuring that the product management process is quick and easy for application administrators.
+
+It's still in an initial phase, but you can follow the project here: [theRecordStore Repository](https://github.com/NunoCPNP/theRecordStore)
+
+#### 📫 How to reach me:
+
+<a href="https://github.com/NunoCPNP" target="_blank"> ![Github Badge](http://img.shields.io/badge/-NunoCPNP-000?&logo=Github&logoColor=white&link=https://github.com/NunoCPNP)</a>
+<a href="https://www.linkedin.com/in/nunocpnp/" target="_blank"> ![Linkedin Badge](https://img.shields.io/badge/-Nuno%20Pereira-blue?&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9-gouveia-marques-675ab3127/)</a>
+<a href="mailto:iamnunopereira@gmail.com" target="_blank"> ![Gmail Badge](https://img.shields.io/badge/-iamnunopereira@gmail.com-c14438?&logo=Gmail&logoColor=white&link=mailto:nunocpereira@outlook.com)</a>
