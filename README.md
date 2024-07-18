@@ -4,7 +4,7 @@
 
 #### 🔭 I’m currently working as
 
-Front End Software Engineer @ [Farfetch](https://github.com/Farfetch)
+Front End Software Engineer @ Bloop
 
 #### 🌱 Most used technologies
 
