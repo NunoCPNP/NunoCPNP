@@ -18,17 +18,6 @@ Front End Software Engineer @ Bloop
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 
-#### ✨ I'm Currently building
-
-Merging my passion for music and technology, as a personal project, I'm building an online record store with all the features I would like to find during the countless hours I spend searching for records in various online record stores.
-
-The two main objectives are:
-
-Creating a fast application with all the necessary features for buyers to have a unique experience.
-Ensuring that the product management process is quick and easy for application administrators.
-
-It's still in an initial phase, but you can follow the project here: [theRecordStore Repository](https://github.com/NunoCPNP/theRecordStore)
-
 #### 📫 How to reach me:
 
 <a href="https://github.com/NunoCPNP" target="_blank"> ![Github Badge](http://img.shields.io/badge/-NunoCPNP-000?&logo=Github&logoColor=white&link=https://github.com/NunoCPNP)</a>
